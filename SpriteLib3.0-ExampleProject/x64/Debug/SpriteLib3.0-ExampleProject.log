@@ -1,0 +1,20 @@
+﻿  ExampleBaseScene.cpp
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(133,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(181,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  Game.cpp
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(289,8): warning C4553:  '==': result of expression not used; did you intend '='?
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\Game.cpp(122,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\Game.cpp(290,14): warning C4553:  '==': result of expression not used; did you intend '='?
+  MyContactListener.cpp
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\Game.cpp(653,48): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(17,59): warning C4311:  'type cast': pointer truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(17,59): warning C4302:  'type cast': truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(23,59): warning C4311:  'type cast': pointer truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(23,59): warning C4302:  'type cast': truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(48,59): warning C4311:  'type cast': pointer truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(48,59): warning C4302:  'type cast': truncation from 'void *' to 'unsigned int'
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(54,59): warning C4311:  'type cast': pointer truncation from 'void *' to 'unsigned int'
+  main.cpp
+  Generating Code...
+C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\SpriteLib3.0-ExampleProject\MyContactListener.cpp(54,59): warning C4302:  'type cast': truncation from 'void *' to 'unsigned int'
+  SpriteLib3.0-ExampleProject.vcxproj -> C:\Users\Alexander\Desktop\UOIT Game Dev\Year 1 2019-2020\Sem2\Game Dev Workshop 2\March-10\x64\Debug\SpriteLib3.0-ExampleProject.exe
